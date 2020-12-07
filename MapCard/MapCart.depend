@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1574529297 source:c:\users\vovagusev\desktop\my works\mapcard\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"bitmap_image.hpp"
+
+946674000 c:\users\vovagusev\desktop\my works\mapcard\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+	<vector>
+

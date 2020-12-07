@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1571841866 source:c:\users\vovagusev\desktop\Мои работы\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string>
+	<vector>
+

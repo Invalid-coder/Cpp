@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571951146 source:c:\users\vovagusev\desktop\Мои работы\maze\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
