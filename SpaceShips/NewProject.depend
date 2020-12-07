@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569521991 source:c:\users\vovagusev\desktop\Мои работы\newproject\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1569522352 source:c:\users\vovagusev\desktop\Мои работы\spaceships\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
